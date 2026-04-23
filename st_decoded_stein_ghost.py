@@ -1,5 +1,5 @@
 # ════════════════════
-__ENC_AUTHOR__ = "STEIN"
+__ENC_AUTHOR__ = "GHOST"
 __TELEGRAM__ = "@rejerk"
 __GROUP_CHAT__ = "@keped"
 # ════════════════════
